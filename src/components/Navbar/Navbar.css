@@ -1,0 +1,24 @@
+
+
+
+.MuiFormControl-root.MuiTextField-root.Search-Textfield.css-1u3bzj6-MuiFormControl-root-MuiTextField-root
+{
+    color: #fff !important;
+
+}
+.MuiInput-root.MuiInput-underline.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.css-1ptx2yq-MuiInputBase-root-MuiInput-root
+{
+    color: white !important;
+}
+.MuiInput-input.MuiInputBase-input.css-1x51dt5-MuiInputBase-input-MuiInput-input:focus
+{
+   border-bottom:  2px solid white !important;
+}
+/* .MuiInput-root.MuiInput-underline.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.css-1ptx2yq-MuiInputBase-root-MuiInput-root:hover
+{
+  border-bottom: 1px solid white !important;
+}
+.MuiInput-root.MuiInput-underline.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.css-1ptx2yq-MuiInputBase-root-MuiInput-root:focus
+{
+    border-bottom: 1px solid white !important;
+} */
